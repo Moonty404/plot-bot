@@ -73,7 +73,7 @@ module.exports = {
                 .setColor('RANDOM')
                 .setTitle("HELP MENU 🔰 Commands")
                 .addField('Prefix Information', `Prefix: \`${prefix}\`\nYou can also mention ${client.user} to get prefix info.`, false)
-                .addField("• Developer", `\`\`\`Owner Bot [<@890233734417252412>]\`\`\``)
+                .addField("• Developer", `\`\`\`Owner Bot / ᵏᵃᵏ ANO ᵛˢ#5416\`\`\``)
                 .addField("• Important Links", `**[Invite Link](https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot)\`|\`[Support Server](https://discord.gg/KGqxPjcfpy)\`|\`/)\`**`)
                 .setDescription(
                     `Use \`${prefix}help\` followed by a command name to get more additional information on a command. For example: \`${prefix}help ban\`.`
