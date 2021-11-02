@@ -34,7 +34,7 @@ module.exports = {
                 .setTitle('Level-UP Channel')
                 .setDescription(`${channel} has been set as a Level-UP Channel`)
                 .setThumbnail('https://media.tenor.com/images/610d120b3b048f6487ad7555e94591bc/tenor.gif')
-                .setFooter('Made By Kabir Jaipal')
+                .setFooter('The404')
             message.channel.send(levelup)
         })
     }
